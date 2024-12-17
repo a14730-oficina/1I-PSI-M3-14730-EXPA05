@@ -10,6 +10,7 @@ Permitir que um utilizador insira as suas respostas.
 Guardar as respostas num ficheiro de texto.
 Exibir uma mensagem de confirmação ao concluir a exportação dos resultados.
 <h3> EXPLICAÇÃO DO FUNCIONAMENTO </h3>
+
 apresentar_questionario()
 
 Função apresentar_questionario faz com que apresentar o questionário e que deia para responder as respostas
